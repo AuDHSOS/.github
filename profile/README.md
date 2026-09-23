@@ -29,3 +29,5 @@ How long does it take?
 * cursor moves
 * TLS to https://google.com (from host)
 * crypto functions
+* Font rendering
+* ssh
